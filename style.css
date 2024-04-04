@@ -366,6 +366,13 @@ a img.aligncenter {
     justify-content: space-between;
     background-color: #232323;
     padding: 20px 160px;
+    background-size: cover;
+}
+
+.my__skills .kk{
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .my__skills .text h1{
@@ -389,7 +396,7 @@ a img.aligncenter {
 .my__skills .skills .html span{
     display: block;
     background-color: white;
-    width: 400px;
+    width: 360px;
     height: 5px;
     border-radius: 5px;
 }
@@ -446,7 +453,7 @@ a img.aligncenter {
 
 .span__react span:nth-child(1){
     display: block;
-    width: 360px;
+    width: 320px;
     height: 5px;
     border-radius: 5px;
     background-color: white;
